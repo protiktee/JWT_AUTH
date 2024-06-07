@@ -1,0 +1,6 @@
+@JWT_AUTH_OST_4_HostAddress = http://localhost:5117
+
+GET {{JWT_AUTH_OST_4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
